@@ -15,7 +15,7 @@ Welcome to the **VisiontoVoice**! This application merges advanced eye-tracking 
 3. **Blink to Select**: A blink is registered as a key press, enabling users to select letters and symbols.
 4. **Speech Output**: Pressing the **Enter** key triggers the conversion of the input text into speech, making communication seamless.
 
-### 📷 User Interface
+## 📷 User Interface
 The keyboard interface showcases each key pulsating with light, creating an engaging visual experience. When a user blinks, the selected key is "typed," providing a unique interaction method.
 
 ## 💡 Use Cases
@@ -40,7 +40,5 @@ I invite you to contribute to VisiontoVoice! Whether you have ideas for new feat
 ## 📧 Contact
 For questions, suggestions, or collaborations, please reach out to:
 - **Wania Gondal** - [wania.gondal@mail.utoronto.ca](mailto:wania.gondal@mail.utoronto.ca)
-
----
 
 Thank you for exploring the VisiontoVoice —— Gaze Detection & Keyboard Interface! Your support and feedback are vital as we strive to enhance accessibility for everyone. Let's make communication easier for those who need it most! 💬👀✨
