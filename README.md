@@ -1,7 +1,7 @@
-# 👁️ Eye Tracker & Keyboard Interface
+# 👁️ VisiontoVoice - Gaze Detection & Keyboard Interface
 
 ## 🌟 Project Overview
-Welcome to the **Eye Tracker & Keyboard Interface**! This cutting-edge application merges advanced eye-tracking technology with an interactive keyboard, allowing users to type effortlessly using just their eyes. Designed primarily for individuals with **paralysis** or **locked-in syndrome**, this project aims to enhance accessibility and empower users to communicate effectively.
+Welcome to the **VisiontoVoice**! This application merges advanced eye-tracking technology with an interactive keyboard, allowing users to type effortlessly using just their eyes. Designed primarily for individuals with **paralysis** or **locked-in syndrome**, this project aims to enhance accessibility and empower users to communicate effectively.
 
 ## 🎯 Key Features
 - **Real-Time Blink Detection**: Detects when the user blinks, allowing them to select keys without physical interaction.
@@ -21,7 +21,6 @@ The keyboard interface showcases each key pulsating with light, creating an enga
 ## 💡 Use Cases
 - **Accessibility Solutions**: Designed for individuals with severe mobility impairments, enabling them to communicate and express themselves.
 - **Assistive Technology**: Ideal for use in medical environments, therapy sessions, and educational settings where traditional input methods are not feasible.
-- **Gaming and Entertainment**: Envision new gaming experiences that respond to eye movements, creating immersive gameplay.
 
 ## 🔧 Built With
 - **OpenCV**: For real-time video processing and eye tracking.
@@ -31,12 +30,12 @@ The keyboard interface showcases each key pulsating with light, creating an enga
 
 ## 🚀 Future Enhancements
 The Eye Tracker project aims to continuously improve with potential features like:
-- **Multi-Face Tracking**: Supporting interactions from multiple users simultaneously.
-- **Customizable Keyboard Layouts**: Allowing users to personalize their typing experience.
+- **Simplified Command Inputs**: Implementing buttons for simple commands like "Yes" or "No," streamlining user interactions for quick responses.
+- **Enhanced User Design**: Improving the user interface to reduce the time it takes to loop through the keys, making the experience smoother and more efficient.
 - **Advanced Analytics**: Tracking user patterns for tailored assistance and improvements.
 
 ## 🤝 Contributing
-We invite you to contribute to the Eye Tracker & Keyboard Interface! Whether you have ideas for new features, bug fixes, or enhancements, your collaboration is welcome. Let’s work together to improve accessibility technology!
+I invite you to contribute to VisiontoVoice! Whether you have ideas for new features, bug fixes, or enhancements, your collaboration is welcome. Let’s work together to improve accessibility technology!
 
 ## 📧 Contact
 For questions, suggestions, or collaborations, please reach out to:
@@ -44,4 +43,4 @@ For questions, suggestions, or collaborations, please reach out to:
 
 ---
 
-Thank you for exploring the Eye Tracker & Keyboard Interface! Your support and feedback are vital as we strive to enhance accessibility for everyone. Let's make communication easier for those who need it most! 💬👀✨
+Thank you for exploring the VisiontoVoice - Gaze Detection & Keyboard Interface! Your support and feedback are vital as we strive to enhance accessibility for everyone. Let's make communication easier for those who need it most! 💬👀✨
