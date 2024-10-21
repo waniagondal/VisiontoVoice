@@ -1,42 +1,47 @@
-# 👁️ Eye Tracker
+# 👁️ Eye Tracker & Keyboard Interface
 
-## ✨ Overview
-Welcome to the **Eye Tracker** project! This innovative application harnesses the power of computer vision to detect eye blinks in real-time using your webcam. Built with OpenCV and MediaPipe, it analyzes facial landmarks and delivers a seamless user experience, whether for accessibility, gaming, or interactive applications.
+## 🌟 Project Overview
+Welcome to the **Eye Tracker & Keyboard Interface**! This cutting-edge application merges advanced eye-tracking technology with an interactive keyboard, allowing users to type effortlessly using just their eyes. Designed primarily for individuals with **paralysis** or **locked-in syndrome**, this project aims to enhance accessibility and empower users to communicate effectively.
 
 ## 🎯 Key Features
-- **Real-Time Blink Detection**: Instantly identify when the user blinks, enhancing user interaction and engagement.
-- **Visual Feedback**: The application provides visual cues indicating whether the eyes are open or closed, ensuring a user-friendly interface.
-- **WebSocket Integration**: Communicates blink detection status in real-time, allowing for versatile use cases, including integration with web applications.
+- **Real-Time Blink Detection**: Detects when the user blinks, allowing them to select keys without physical interaction.
+- **Dynamic Keyboard Interface**: Each key on the keyboard is highlighted in a continuous loop, drawing the user's attention to the currently selectable key.
+- **Eye-Controlled Typing**: A blink on the **Enter** key converts the typed message into speech using Google Text-to-Speech (gTTS), providing instant auditory feedback.
+- **User-Friendly Design**: The interface is intuitive, ensuring users can easily navigate and interact with the keyboard.
 
-## 🖼️ How It Works
-The Eye Tracker processes video frames from your webcam and utilizes MediaPipe’s powerful face mesh model to detect and track facial landmarks around the eyes. By measuring the distance between the upper and lower eyelids, the application can determine whether the eyes are open or closed, effectively detecting blinks.
+## 🖥️ How It Works
+1. **Eye Tracking**: The application captures video frames from the webcam, using MediaPipe to identify facial landmarks, particularly around the eyes.
+2. **Keyboard Interaction**: The keyboard keys are visually highlighted in a loop, allowing users to focus on the desired key.
+3. **Blink to Select**: A blink is registered as a key press, enabling users to select letters and symbols.
+4. **Speech Output**: Pressing the **Enter** key triggers the conversion of the input text into speech, making communication seamless.
 
-### 🎨 User Interface
-The application features an intuitive user interface that visually represents the eye-tracking process, making it easy to understand and use.
+### 📷 User Interface
+The keyboard interface showcases each key pulsating with light, creating an engaging visual experience. When a user blinks, the selected key is "typed," providing a unique interaction method.
 
 ## 💡 Use Cases
-- **Accessibility**: Assist users with disabilities by enabling hands-free control through blink detection.
-- **Gaming**: Create immersive gaming experiences that react to user blinks for enhanced interactivity.
-- **Research**: Utilize the technology for studies in psychology or human-computer interaction.
+- **Accessibility Solutions**: Designed for individuals with severe mobility impairments, enabling them to communicate and express themselves.
+- **Assistive Technology**: Ideal for use in medical environments, therapy sessions, and educational settings where traditional input methods are not feasible.
+- **Gaming and Entertainment**: Envision new gaming experiences that respond to eye movements, creating immersive gameplay.
+
+## 🔧 Built With
+- **OpenCV**: For real-time video processing and eye tracking.
+- **MediaPipe**: For accurate facial landmark detection.
+- **WebSockets**: For real-time communication with the interface.
+- **gTTS (Google Text-to-Speech)**: To translate typed text into spoken words.
 
 ## 🚀 Future Enhancements
-The Eye Tracker project aims to continuously evolve with potential enhancements, including:
-- Multi-face tracking capabilities for group interactions.
-- Advanced analytics on user behavior based on blink patterns.
-- Integration with virtual reality (VR) and augmented reality (AR) environments.
-
-## 🛠️ Built With
-- **OpenCV**: For real-time computer vision processing.
-- **MediaPipe**: For accurate facial landmark detection.
-- **WebSockets**: For real-time communication and interaction.
+The Eye Tracker project aims to continuously improve with potential features like:
+- **Multi-Face Tracking**: Supporting interactions from multiple users simultaneously.
+- **Customizable Keyboard Layouts**: Allowing users to personalize their typing experience.
+- **Advanced Analytics**: Tracking user patterns for tailored assistance and improvements.
 
 ## 🤝 Contributing
-We welcome contributions! If you have ideas for enhancements, bug fixes, or new features, feel free to reach out or submit a pull request. Your input helps us improve the Eye Tracker project.
+We invite you to contribute to the Eye Tracker & Keyboard Interface! Whether you have ideas for new features, bug fixes, or enhancements, your collaboration is welcome. Let’s work together to improve accessibility technology!
 
 ## 📧 Contact
-For inquiries or suggestions, please contact:
-- **Wania Gondal** - [wania.gondal@mail.utoronto.ca](wania.gondal@mail.utoronto.ca)
+For questions, suggestions, or collaborations, please reach out to:
+- **Wania Gondal** - [wania.gondal@mail.utoronto.ca](mailto:wania.gondal@mail.utoronto.ca)
 
 ---
 
-Thank you for exploring the Eye Tracker project! We hope you enjoy using it and find it as exciting as we do. Keep an eye out for future updates! 👀✨
+Thank you for exploring the Eye Tracker & Keyboard Interface! Your support and feedback are vital as we strive to enhance accessibility for everyone. Let's make communication easier for those who need it most! 💬👀✨
