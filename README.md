@@ -35,10 +35,8 @@ The Eye Tracker project aims to continuously improve with potential features lik
 - **Advanced Analytics**: Tracking user patterns for tailored assistance and improvements.
 
 ## 🤝 Contributing
-I invite you to contribute to VisiontoVoice! Whether you have ideas for new features, bug fixes, or enhancements, your collaboration is welcome. Let’s work together to improve accessibility technology!
+Thank you for exploring the VisiontoVoice —— Gaze Detection & Keyboard Interface! I invite you to contribute to VisiontoVoice. Whether you have ideas for new features, bug fixes, or enhancements, your collaboration is welcome. Let's make communication easier for those who need it most! 💬👀✨
 
 ## 📧 Contact
 For questions, suggestions, or collaborations, please reach out to:
 - **Wania Gondal** - [wania.gondal@mail.utoronto.ca](mailto:wania.gondal@mail.utoronto.ca)
-
-Thank you for exploring the VisiontoVoice —— Gaze Detection & Keyboard Interface! Your support and feedback are vital as we strive to enhance accessibility for everyone. Let's make communication easier for those who need it most! 💬👀✨
