@@ -1,4 +1,4 @@
-# 👁️ VisiontoVoice - Gaze Detection & Keyboard Interface
+# 👁️ VisiontoVoice —— Gaze Detection & Keyboard Interface
 
 ## 🌟 Project Overview
 Welcome to the **VisiontoVoice**! This application merges advanced eye-tracking technology with an interactive keyboard, allowing users to type effortlessly using just their eyes. Designed primarily for individuals with **paralysis** or **locked-in syndrome**, this project aims to enhance accessibility and empower users to communicate effectively.
@@ -43,4 +43,4 @@ For questions, suggestions, or collaborations, please reach out to:
 
 ---
 
-Thank you for exploring the VisiontoVoice - Gaze Detection & Keyboard Interface! Your support and feedback are vital as we strive to enhance accessibility for everyone. Let's make communication easier for those who need it most! 💬👀✨
+Thank you for exploring the VisiontoVoice —— Gaze Detection & Keyboard Interface! Your support and feedback are vital as we strive to enhance accessibility for everyone. Let's make communication easier for those who need it most! 💬👀✨
