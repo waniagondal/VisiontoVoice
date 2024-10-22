@@ -1,3 +1,5 @@
+© 2024 Wania Gondal
+
 import cv2
 import mediapipe as mp
 import asyncio
