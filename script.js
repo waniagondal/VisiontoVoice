@@ -1,3 +1,5 @@
+© 2024 Wania Gondal
+
 class Keyboard {
     constructor() {
         this.keys = document.querySelectorAll('.keys');
