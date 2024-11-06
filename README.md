@@ -34,4 +34,4 @@ The Eye Tracker project aims to continuously improve with potential features lik
 - **Enhanced User Design**: Improving the user interface to reduce the time it takes to loop through the keys, making the experience smoother and more efficient.
 - **Advanced Analytics**: Tracking user patterns for tailored assistance and improvements.
 
-- **Wania Gondal** - [wania.gondal@mail.utoronto.ca](mailto:wania.gondal@mail.utoronto.ca) ❤️
+❤️
