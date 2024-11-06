@@ -34,9 +34,4 @@ The Eye Tracker project aims to continuously improve with potential features lik
 - **Enhanced User Design**: Improving the user interface to reduce the time it takes to loop through the keys, making the experience smoother and more efficient.
 - **Advanced Analytics**: Tracking user patterns for tailored assistance and improvements.
 
-## 🤝 Contributing
-Thank you for exploring the **VisiontoVoice**! I invite you to contribute to VisiontoVoice. Whether you have ideas for new features, bug fixes, or enhancements, your collaboration is welcome. Let's make communication accessible for the voiceless! 💬👀✨
-
-## 📧 Contact
-For questions, suggestions, or collaborations, please reach out to:
 - **Wania Gondal** - [wania.gondal@mail.utoronto.ca](mailto:wania.gondal@mail.utoronto.ca) ❤️
